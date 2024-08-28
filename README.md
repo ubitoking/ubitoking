@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AYOUB KORTALI
+- 👋 Hi, I’m Ishak Kortali
 - 👀 I’m interested in learning apps programming
 - 🌱 I’m currently learning KOTLIN
 
